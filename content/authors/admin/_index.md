@@ -11,7 +11,7 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ""
 
 # Is this the primary user of the site?
 superuser: true
@@ -37,8 +37,8 @@ profiles:
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  # - icon: brands/github
-  #   url: https://github.com/gcushen
+  - icon: brands/github
+    url: https://github.com/chengjie1127?tab=repositories
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/chengjiezhang001127/
   # - icon: academicons/google-scholar
