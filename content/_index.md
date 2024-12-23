@@ -24,7 +24,7 @@ sections:
         color: black
         image: 
           # Add your image background to `assets/media/`.
-          filename: ZFC_1028.JPG
+          filename: ZFC_1052.JPG
           filters:
             brightness: 1.0
           size: cover
