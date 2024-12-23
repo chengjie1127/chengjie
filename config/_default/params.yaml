@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: zinc
+  color: white
 
 # SEO
 marketing:
@@ -58,3 +58,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+params:
+  customCSS:
+    - css/custom.css
