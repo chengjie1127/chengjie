@@ -88,7 +88,7 @@ work:
   - position: Software Engineer Intern
     company_name: Dassault Systèmes
     company_url: 'https://www.3ds.com/'
-    company_logo: '3DS.jpeg'
+    company_logo: '3DS.jpg'
     date_start: 2024-05-20
     date_end: 2024-08-23
     summary: |
